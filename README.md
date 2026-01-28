@@ -1,1 +1,1 @@
-https://github.com/Foco22/hackathon-stelios-learning-save-kids
+https://github.com/kwebster77/opencode-vibe-code-session
