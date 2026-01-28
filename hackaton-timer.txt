@@ -1,1 +1,1 @@
-https://github.com/tomups/hackathon-timer.git
+https://github.com/maxbmaapc/mini_hackathon
